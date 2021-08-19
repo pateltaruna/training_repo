@@ -1,3 +1,4 @@
 this is eaxmple1
-it is a text file
-modified later 
+it's a text file
+modified later
+new line added 

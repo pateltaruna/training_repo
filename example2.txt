@@ -1,2 +1,3 @@
 this is example2
-hey
+new line added 
+new line added after commit and staging 
