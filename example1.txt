@@ -1,4 +1,7 @@
 this is eaxmple1
 it's a text file
 modified later
-new line added 
+new line added
+hii 
+hello
+hey 
